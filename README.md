@@ -15,3 +15,7 @@ Each layers are connected to each other using TLS/SSL. Note that an attempt to p
 
 Ensure in your arduino IDE, correct MCU board is selected and also PubSubClient library is included in the correct directory. 
 PubsubClient libary is for connections to MQTT server. 
+
+refer to the following resporitory for downloading the libraries:
+
+1. https://github.com/knolleary/pubsubclient (PubSubClient)
